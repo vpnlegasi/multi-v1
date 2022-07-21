@@ -1,9 +1,9 @@
 # multiport
 # AUTOSCRIPT BY VPN LEGASI (MODED)
-# ADD Function Check IP Netflix Content
-# ADD Function Auto ADD DNS SERVER Temporary / Permanent
-# Support OVPN,OHP,WG,SSR,V2ray,Xray & many more
-# Open Sewa serendah RM10 / IP / Month (32days)
+# NETFLIX CONTENT CHECKER
+# AUTO ADD DNS SERVER Temporary / Permanent
+# Support OVPN,WG,Xray MULTIPORT & many more SOON
+# Open Sewa serendah RM10 / IP / Month (30days)
 # Contact Telegram only : https://t.me/vpnlegasi
 
 
@@ -27,6 +27,5 @@ src="https://img.shields.io/badge/Service-Xray-success.svg">  <img src= "https:/
 
   ```
 
-## Credit :
-
-*   Modded Script by    t.me/vpnlegasi
+*   Modded Script by : VPN Legasi
+*   Telegram Contact : @vpnlegasi / https://t.me/vpnlegasi
